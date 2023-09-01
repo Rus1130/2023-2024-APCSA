@@ -1,4 +1,3 @@
-// 1.6.1.1
 /*public*/ class Challenge1_6
 {
     public static void main(String[] args)

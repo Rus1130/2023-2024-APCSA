@@ -1,0 +1,1 @@
+C. (double) total / 3;
