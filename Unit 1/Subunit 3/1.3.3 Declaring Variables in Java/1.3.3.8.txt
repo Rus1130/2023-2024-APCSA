@@ -1,0 +1,3 @@
+int numVisits = 5;
+double temp = 101.2;
+boolean hasInsurance = false;

@@ -1,4 +1,3 @@
-// 1.4.6.1
 /*public*/ class Challenge1_4
 {
     public static void main(String[] args)
@@ -26,6 +25,5 @@
         System.out.println(age);
         System.out.println(dogAge);
         System.out.println(dogYearsAge);
-
    }
 }

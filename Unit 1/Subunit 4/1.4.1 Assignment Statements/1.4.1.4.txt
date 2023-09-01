@@ -1,0 +1,13 @@
+block 1:
+int x = 3;   
+int y = 5;
+int temp = 0;
+
+block 2:
+temp = x;
+
+block 3:
+x = y;
+ 
+block 4:
+y = temp;

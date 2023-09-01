@@ -1,0 +1,2 @@
+first blank: int
+second blank: 5
