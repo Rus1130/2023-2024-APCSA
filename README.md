@@ -1,6 +1,6 @@
 ### NOTICE
-If you need to copy/paste some solutions, make sure you uncomment the `public` on the first line. eg.<br>
-given solution of 1.2.1.1:
+If you need to copy/paste some solutions, make sure you uncomment the `public` on the first line.<br>
+The example of 1.2.1.1 is shown:
 ```java
 /*public*/ class MyClass // notice how /* and */ are surrounding public
 {
