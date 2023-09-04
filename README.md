@@ -20,4 +20,4 @@ public class MyClass // notice that it is missing /* and */
     }
 }
 ```
-I had to write it this verbose because ya'll are idiots
+I had to write it this verbose because y'all are idiots
